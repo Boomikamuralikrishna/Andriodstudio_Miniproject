@@ -16,6 +16,7 @@ The key features in this are as follows,
 *It contains a interactive UI which allows user to control the songs. 
 
 These features are implemented with the help of :-
+
 1.Navigation Drawer
 
 2.Fragments
