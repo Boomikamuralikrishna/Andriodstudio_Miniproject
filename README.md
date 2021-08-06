@@ -7,8 +7,9 @@ This is the music player with the interactive UI for the easy access for user Th
 *Favourites playlist will be permanent until user deletes the songs.
 *User can also add some songs to the currently playing song list which will be temporary.
 *It also has search functionality which will the search the song and give the desired result.
+*It contains a interactive UI which allows user to control the songs. 
 
-*It contains a interactive UI which allows user to control the songs. These features are implemented with the help of :-
+These features are implemented with the help of :-
 1.Navigation Drawer
 2.Fragments
 3.Viewpager
